@@ -1,0 +1,9 @@
+name: radial_rl
+channels:
+    - https://conda.anaconda.org/kne
+    - https://conda.anaconda.org/tlatorre 
+    - https://conda.anaconda.org/cjs14
+    - https://conda.anaconda.org/menpo
+    - jjhelmus
+dependencies:
+    - python==3.7.0
